@@ -164,6 +164,9 @@ header {
     flex-direction: column;
     gap: 0.5rem;
   }
+  .sign-up-group input {
+    width: initial;
+  }
   .terms-condition {
     width: 100%;
   }
